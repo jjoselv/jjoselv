@@ -1,8 +1,8 @@
 ## Hola! 👋
 
-My name is Juanjo López and I'm a Frontend/Software Developer/Engineer. I'm from Spain, living in Madrid and you can find me on <a href="https://www.linkedin.com/in/juanjolv/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="15" height="15"/></a>.
+My name is Juanjo López and I'm a Frontend/Software Developer/Engineer. I'm from Spain, living in Zürich and you can find me on <a href="https://www.linkedin.com/in/juanjolv/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="15" height="15"/></a>.
 
-- 🔭 I’m currently working on TrustYou S.L. as a Professional Software Engineer.
+- 🔭 I’m currently working at EPAM as a Senior Software Engineer.
 - 🌱 I’m currently learning the internals of React reconciliation algorithm.
 - ⚡ Fun fact: I love to play piano.
 
